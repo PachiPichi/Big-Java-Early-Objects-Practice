@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Big-Java-Early-Objects-Practice.iml" filepath="$PROJECT_DIR$/.idea/Big-Java-Early-Objects-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 02/Chapter 02.iml" filepath="$PROJECT_DIR$/Chapter 02/Chapter 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 03/Chapter 03.iml" filepath="$PROJECT_DIR$/Chapter 03/Chapter 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 04/Chapter 04.iml" filepath="$PROJECT_DIR$/Chapter 04/Chapter 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 05/Chapter 05.iml" filepath="$PROJECT_DIR$/Chapter 05/Chapter 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 06/Chapter 06.iml" filepath="$PROJECT_DIR$/Chapter 06/Chapter 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 07/Chapter 07.iml" filepath="$PROJECT_DIR$/Chapter 07/Chapter 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 08/Chapter 08.iml" filepath="$PROJECT_DIR$/Chapter 08/Chapter 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 09/Chapter 09.iml" filepath="$PROJECT_DIR$/Chapter 09/Chapter 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10/Chapter 10.iml" filepath="$PROJECT_DIR$/Chapter 10/Chapter 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 11/Chapter 11.iml" filepath="$PROJECT_DIR$/Chapter 11/Chapter 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 12/Chapter 12.iml" filepath="$PROJECT_DIR$/Chapter 12/Chapter 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 13/Chapter 13.iml" filepath="$PROJECT_DIR$/Chapter 13/Chapter 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 14/Chapter 14.iml" filepath="$PROJECT_DIR$/Chapter 14/Chapter 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 15/Chapter 15.iml" filepath="$PROJECT_DIR$/Chapter 15/Chapter 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 16/Chapter 16.iml" filepath="$PROJECT_DIR$/Chapter 16/Chapter 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 17/Chapter 17.iml" filepath="$PROJECT_DIR$/Chapter 17/Chapter 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 18/Chapter 18.iml" filepath="$PROJECT_DIR$/Chapter 18/Chapter 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 19/Chapter 19.iml" filepath="$PROJECT_DIR$/Chapter 19/Chapter 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 20/Chapter 20.iml" filepath="$PROJECT_DIR$/Chapter 20/Chapter 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 21/Chapter 21.iml" filepath="$PROJECT_DIR$/Chapter 21/Chapter 21.iml" />
+    </modules>
+  </component>
+</project>
